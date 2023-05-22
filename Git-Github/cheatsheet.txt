@@ -1,0 +1,22 @@
+CHEATSHEET GIT HUB
+
+-Para inicializar un repositorio (estar en la carpeta donde se inicialziara)
+        git init
+- Para visualizar el status
+        Git status
+- Para agregar cambios
+        Git add       
+- Para Guardar cabios
+        Git commit 
+- Para enviar los cambios al gihub
+        Git push 
+- Para poder descargar los archivos o actualizar 
+        Git pull  
+- Para desaser los cambios realizados
+        Git revert                  
+- Para clonar un repositorio podemos usar
+        git clone <https://link-con-nombre-del-repositorio>
+- Para crear una nueva rama
+        git branch <nombre-de-la-rama>
+- Para visualziar una rama
+        git branch
