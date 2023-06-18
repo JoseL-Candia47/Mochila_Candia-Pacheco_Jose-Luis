@@ -1,0 +1,15 @@
+
+1.¿Por que un lenguaje de programacion solo se puede utilizar en algunos sistemas operativos y en otros no?
+	
+	Porque un lenguaje de programacion depende a la arquitectura del procesador y el sistema operativo en el que se usara y
+	por que no es lo mismo programar para un sistema operativo de linux que sus componentes son diferentes a un sistema operativo windows.
+
+2. ¿Que tipo de maquina virtual es virtual box?
+
+	Es una Máquina virtuale de proceso. es decir se ejecuta como un proceso normal dentro de un sistema operativo y soporta un solo proceso.
+	Su objetivo es el de proporcionar un entorno de ejecución independiente de la plataforma de hardware y del sistema operativo.
+
+3.Si tengo mas de una maquina virtual instalada, y una se rompe¿esto afecta a las demas?¿Por que?
+	
+	Si una de las maqunas vituales se daña no dañara a las demas porque esa maquina es un entorno independiente dentro del virtualzador
+	que utilice el usuario.
