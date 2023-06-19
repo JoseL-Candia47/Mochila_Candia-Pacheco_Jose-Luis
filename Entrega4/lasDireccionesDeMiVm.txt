@@ -1,0 +1,14 @@
+Mis Direcciones ip son:
+
+1. IP Private:
+		IP 						10.0.2.15
+		Mascara de subred:	255.255.225.0
+		Puerta de Enlace:		10.0.2.2
+      IP Publica
+		Mi IP Publica es: 		181.XX.XX.X5
+
+2. La Direccion MAC es: 	08:00:27:66:d0:f2
+
+3. ¿Es diferente a la IP y privada de nuestra máquina viertual host?
+		La direccion ip publica si es la misma ya que es la que el proovedor de internet me dio.
+		Pero la IP Privada si es diferente ya que no se puede tener la mimsa ip en la misma red ya que el Virtualziador es como una maquina mas.
