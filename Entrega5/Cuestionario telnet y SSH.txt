@@ -1,0 +1,21 @@
+Telnet
+- Ventajas
+  1. La facilidad de Acceder a equipos de forma remota.
+  2. Es facil de usar porque solo se necesita el ip del equipo donde debemos conectarnos.
+- Deventajas
+  1. Se ve que es algo inseguro porque con solo saber el ip se pueden conectar de forma remota y tener acceso sin restricciones
+  2. que en la otra maquina si o si debe estar istalado el protocolo
+Cuestionario telnet y SSH
+SSH
+- Ventajas
+  1. Es facil Acceder a equipos de forma remota desde cualquer lado.
+  2. El uso es mas seguro ya que pide la autenticacion del usuario.
+- Deventajas
+  1. No podemos trafajar con en entorno grafico ademas del terminal
+  2. Que no se puede conectar si es que no sabes alemnos un conociminto minimo de comandos.
+
+Diferencias entre SSH y Telnet:
+1.Sobre la seguridad SSH es mas seguro ya que pide dos cosa mas adicionales al ip mientars de en telnet cualquier persona puede entrar con solo tener el ip.
+2.Sobre el cifrado de datos en SSH es mas seguro ya que si tiene un cifrado de datos meintras que telnet no lo tiene y por eso la seguirdad es minima.
+3.Sobre la funcionalidad  en SSH podemos conectarnos con mas pasos de forma segura con la autenticacion del usuario mientras que en el lo que es Telnet se ingresa de forma mas rapida 
+  pero menos segura ya que no tenemos la autenticacion pero en lo demas funciona de foram igual
